@@ -1,73 +1,43 @@
+# Published Link
 
-ProjectLink : https://vmc111.github.io/TypingApp/
+https://vmc111.github.io/TypingApp/
 
-# Getting Started with Create React App
+# Touch Typing App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Touch Typing App! This application allows users to practice typing specific keys [a, s, d, f, j, k, l] and improve their typing skills.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Project Description
 
-### `npm start`
+The Touch Typing App is designed to help users enhance their touch typing abilities by focusing on specific keys. It provides a user-friendly interface and customizable options for an optimal typing practice experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Typing Practice: Users can practice typing with random words consisting of the keys [a, s, d, f, j, k, l].
+- Word Length Selection: Users can select the desired length of words to practice, ranging from 5 to 8 letters.
+- Timer: The app includes a timer set for 5 minutes to track typing sessions.
+- Results: Typing accuracy, wordsCount can be seen on the webpage and updates dynamically.
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To use the Touch Typing App locally, follow these steps:
 
-### `npm run build`
+1. Clone this repository: `git clone https://github.com/vmc111/TypingApp.git`
+2. Navigate to the project directory: `cd TypingApp`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit: `http://localhost:3000`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Upon accessing the app, you will see the typing interface.
+2. Select the word length from the dropdown menu.
+3. Click on the "Start" button to begin the typing session.
+4. Type the displayed words using the specific keys [a, s, d, f, j, k, l].
+5. You can reset to start new by Clicking Reset Button
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. ReactJS
+2. 2.CSS
+3. 3.HTML
