@@ -39,5 +39,5 @@ To use the Touch Typing App locally, follow these steps:
 ## Technologies Used
 
 1. ReactJS
-2. 2.CSS
-3. 3.HTML
+2. CSS
+3. HTML
