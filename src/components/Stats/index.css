@@ -1,0 +1,19 @@
+.stats-bg {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.stats-heading {
+  font-size: 32px;
+  font-weight: bold;
+}
+@media all and (max-width: 767px) {
+  .stats-bg {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
+.stats-heading {
+  margin: 20px;
+}

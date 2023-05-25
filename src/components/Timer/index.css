@@ -1,0 +1,28 @@
+.header-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #d9d7d7;
+  background-color: #333;
+}
+.timer {
+  margin: 0px;
+  padding: 0px;
+  color: #ffffff;
+  font-size: 60px;
+}
+.icon {
+  margin-right: 20px;
+}
+
+@media all and (max-width: 767px) {
+  .header-div {
+    padding: 10px 30px;
+    justify-content: space-around;
+  }
+  .timer {
+    font-size: 48px;
+  }
+}
